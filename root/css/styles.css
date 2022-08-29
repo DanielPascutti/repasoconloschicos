@@ -1,0 +1,16 @@
+.welcome-image { 
+    background-image: url("../img/banerfondo1.png");
+    height: 500px;
+    background-size: cover;
+
+}
+
+.header-negro {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(36, 33, 33);
+    color: white;
+    font-size: 12px;
+
+}
